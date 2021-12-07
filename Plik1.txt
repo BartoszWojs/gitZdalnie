@@ -1,1 +1,2 @@
 Zmiana1
+Zmiana na galezi niescalona do wysylania na serwer zdalny
