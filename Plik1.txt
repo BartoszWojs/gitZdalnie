@@ -3,3 +3,4 @@ Zmiana w klonie
 zmiana w orginale
 Zmiana5
 Zmiana8
+Zmiana14
